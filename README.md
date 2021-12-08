@@ -1,5 +1,5 @@
 # Coffee-and-Cloud-CDK
-Takeaway for our Coffee and Cloud CDK edition - **please note this representes general guidance steps and are by no means to be taken as production-ready deployment advice**
+Takeaway for our Coffee and Cloud CDK edition - **please note this representes general guidance steps and are not to be taken production-ready deployment advice**
 
 Steps for reproduction: <br>
 
