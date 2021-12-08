@@ -1,6 +1,13 @@
 # Coffee-and-Cloud-CDK
 Takeaway for our Coffee and Cloud CDK edition
 
+Steps for reproduction: <br>
+
+1. Create a directory for your project and go to that directory <br>
+    ```mkdir project ``` <br>
+    ``` cd project ```
+    
+2. 
 
 
 
