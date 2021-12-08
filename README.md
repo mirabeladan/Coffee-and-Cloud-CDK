@@ -10,6 +10,7 @@ Steps for reproduction: <br>
 2. Install the CDK and create your app : <br>
         ``` npm install -g aws-cdk ``` <br>
         ``` cdk --version ``` (for checking the installation) <br>
+        ``` cdk init app --language typescript ``` <br>
         
 3. Start codifying your infrastructure! <br>
     In this session, we have added a VPC: <br>
